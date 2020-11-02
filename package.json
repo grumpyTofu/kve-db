@@ -1,5 +1,5 @@
 {
-  "name": "kveDB",
+  "name": "kve-db",
   "version": "1.0.0",
   "description": "Light-weight embeddable file-system key-value pair database",
   "main": "dist/index.js",
